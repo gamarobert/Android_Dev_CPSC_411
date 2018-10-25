@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiniApp1</string>
+    <string name="filesize">filesize</string>
+    <string name="File_Size">File Size</string>
+    <string name="Network_Size">Network Size</string>
+    <string name="Transfer_Time" />
+    <string name="network_speed_mbps">Network Speed (Mbps)</string>
+    <string name="file_size_mib">File Size (MiB)</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="seconds">Seconds</string>
+    <string name="_100">100</string>
+</resources>
